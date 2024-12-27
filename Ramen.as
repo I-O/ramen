@@ -6,7 +6,7 @@ package
 */
 	import flash.display.Sprite;
 
-	public class FlashTest extends Sprite
+	public class Ramen extends Sprite
 	{
 		import flash.display.Bitmap;
 		import flash.display.BitmapData;
@@ -49,7 +49,7 @@ package
 
 		[swf(width="465", height="465", bgcolor="#ffffff")]
 
-		public function FlashTest():void
+		public function Ramen():void
 		{
 			stage.scaleMode = StageScaleMode.NO_SCALE;
 			stage.frameRate = 15;
